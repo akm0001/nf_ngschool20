@@ -1,4 +1,4 @@
-# Nextflow training for CRG PhD course 2019
+# Nextflow training for NGS school 2020
 
 ## Nextflow in a nutshell 
 
@@ -32,7 +32,7 @@ A workflow engine for data analysis pipelines with a strong focus on enabling:
 Clone this repository with the following command: 
 
 ```
-git clone https://github.com/cbcrg/nf-phdcourse19.git && cd nf-phdcourse19
+git clone https://github.com/edgano/nf_ngschool20.git && cd nf_ngschool20
 ```
 
 Then, install Nextflow by using the following command: 
